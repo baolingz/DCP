@@ -16,7 +16,7 @@ import urllib.request
 # url = r"https://www.google.com/maps/d/kml?mid=1hpyh201fVvv_p6oZKa6IOP8zzeebRy5p&forcekml=1" #casa 6<-6
 # url = r"https://www.google.com/maps/d/kml?mid=1GIYqt96Cbq-ppWyvVT0iJRLnbSk&forcekml=1" #hasa 13<-13
 # url = r"https://www.google.com/maps/d/kml?mid=1uC3LcicVmGp_CZcyQZkGuf8rLGY&forcekml=1" #job centers 30<-28
-# url = r"https://www.google.com/maps/d/kml?mid=1MYy3WOFBNgJ4D4-rqMYoXs2R3dk&forcekml=1" #medicaid offices 10<-13
+# url = r"https://www.google.com/maps/d/kml?mid=1MYy3WOFBNgJ4D4-rqMYoXs2R3dk&forcekml=1" #medicaid offices 10<-12
 # url = "https://data.cityofnewyork.us/api/views/fzk8-3ynb/rows.csv?accessType=DOWNLOAD" #medicaid offices open data
 # url = r"https://www.google.com/maps/d/kml?mid=1MYy3WOFBNgJ4D4-rqMYoXs2R3dk&forcekml=1" #ocss centers 10<-10
 html_content = urllib.request.urlopen(url)
