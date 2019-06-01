@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>SNAP Centers</name>
+    <description>HRA SNAP Centers</description>
+    <Style id="icon-503-62AF44-normal">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-62AF44-highlight">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-62AF44">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-62AF44-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-62AF44-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>snap.xlsx</name>
+      <Placemark>
+        <name>SNAP Coney Island Office</name>
+        <address>2857-2865                 W. 8th St.</address>
+        <description><![CDATA[Address: 2857-2865                 W. 8th St.<br>Zip Code: 11224<br>Borough: Brooklyn<br>Phone: 929-221-3537<br>Hours: 8:30 AM to 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2857-2865                 W. 8th St.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>11224.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Brooklyn</value>
+          </Data>
+          <Data name="Phone">
+            <value>929-221-3537</value>
+          </Data>
+          <Data name="Hours">
+            <value>8:30 AM to 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP Fort Greene Office</name>
+        <address>275 Bergen St.</address>
+        <description><![CDATA[Address: 275 Bergen St.<br>Zip Code: 11217<br>Borough: Brooklyn<br>Phone: 718-694-8196 <br>Hours: 9:00 AM to 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>275 Bergen St.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>11217.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Brooklyn</value>
+          </Data>
+          <Data name="Phone">
+            <value>718-694-8196 </value>
+          </Data>
+          <Data name="Hours">
+            <value>9:00 AM to 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP North Brooklyn Office</name>
+        <address>500 Dekalb Ave.</address>
+        <description><![CDATA[Address: 500 Dekalb Ave.<br>Zip Code: 11205<br>Borough: Brooklyn<br>Phone: 929-221-8126<br>Hours: 8:30 AM to 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>500 Dekalb Ave.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>11205.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Brooklyn</value>
+          </Data>
+          <Data name="Phone">
+            <value>929-221-8126</value>
+          </Data>
+          <Data name="Hours">
+            <value>8:30 AM to 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP Williamsburg Office</name>
+        <address>30 Thornton St.</address>
+        <description><![CDATA[Address: 30 Thornton St.<br>Zip Code: 11206<br>Borough: Brooklyn<br>Phone: 718-963-5140<br>Hours: 8:30 AM to 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>30 Thornton St.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>11206.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Brooklyn</value>
+          </Data>
+          <Data name="Phone">
+            <value>718-963-5140</value>
+          </Data>
+          <Data name="Hours">
+            <value>8:30 AM to 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP Concourse Office</name>
+        <address>1375 Jerome Ave.</address>
+        <description><![CDATA[Address: 1375 Jerome Ave.<br>Zip Code: 10452<br>Borough: Bronx<br>Phone: 929-252-8998 <br>Hours: M-F 9:00 AM - 6:00 PM, Sat  9:00 AM - 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1375 Jerome Ave.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>10452.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Bronx</value>
+          </Data>
+          <Data name="Phone">
+            <value>929-252-8998 </value>
+          </Data>
+          <Data name="Hours">
+            <value>M-F 9:00 AM - 6:00 PM, Sat  9:00 AM - 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP Crotona Office</name>
+        <address>1910 Monterey Ave.</address>
+        <description><![CDATA[Address: 1910 Monterey Ave.<br>Zip Code: 10457<br>Borough: Bronx<br>Phone: 929-252-7436<br>Hours: 8:30 AM - 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1910 Monterey Ave.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>10457.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Bronx</value>
+          </Data>
+          <Data name="Phone">
+            <value>929-252-7436</value>
+          </Data>
+          <Data name="Hours">
+            <value>8:30 AM - 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP Hunts Point Office</name>
+        <address>845 Barretto St.</address>
+        <description><![CDATA[Address: 845 Barretto St. <br>Zip Code: 10474<br>Borough: Bronx<br>Phone: 929-252-4445 <br>Hours: 8:30 AM - 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>845 Barretto St. </value>
+          </Data>
+          <Data name="Zip Code">
+            <value>10474.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Bronx</value>
+          </Data>
+          <Data name="Phone">
+            <value>929-252-4445 </value>
+          </Data>
+          <Data name="Hours">
+            <value>8:30 AM - 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP East End Office</name>
+        <address>2322 Third Ave.</address>
+        <description><![CDATA[Address: 2322 Third Ave.<br>Zip Code: 10035<br>Borough: Manhattan<br>Phone: 212-860-5147<br>Hours: 8:30 AM - 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2322 Third Ave.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>10035.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Manhattan</value>
+          </Data>
+          <Data name="Phone">
+            <value>212-860-5147</value>
+          </Data>
+          <Data name="Hours">
+            <value>8:30 AM - 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP East New York Office</name>
+        <address>404 Pine St.</address>
+        <description><![CDATA[Address: 404 Pine St.<br>Zip Code: 11208<br>Borough: Brooklyn<br>Phone: 929-221-8327 <br>Hours: 8:30 AM to 5:00 PM ]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>404 Pine St.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>11208.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Brooklyn</value>
+          </Data>
+          <Data name="Phone">
+            <value>929-221-8327 </value>
+          </Data>
+          <Data name="Hours">
+            <value>8:30 AM to 5:00 PM </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP St. Nicholas Office</name>
+        <address>132 W. 125th St.</address>
+        <description><![CDATA[Address: 132 W. 125th St. <br>Zip Code: 10027<br>Borough: Manhattan<br>Phone: 212-666-8788<br>Hours: 8:30 AM - 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>132 W. 125th St. </value>
+          </Data>
+          <Data name="Zip Code">
+            <value>10027.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Manhattan</value>
+          </Data>
+          <Data name="Phone">
+            <value>212-666-8788</value>
+          </Data>
+          <Data name="Hours">
+            <value>8:30 AM - 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP Washington Heights Office</name>
+        <address>4055 10th Ave.</address>
+        <description><![CDATA[Address: 4055 10th Ave.<br>Zip Code: 10034<br>Borough: Manhattan<br>Phone: 212-569-9835<br>Hours: 8:30 AM - 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4055 10th Ave.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>10034.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Manhattan</value>
+          </Data>
+          <Data name="Phone">
+            <value>212-569-9835</value>
+          </Data>
+          <Data name="Hours">
+            <value>8:30 AM - 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP Waverly Office</name>
+        <address>12 W. 14th St.</address>
+        <description><![CDATA[Address: 12 W. 14th St.<br>Zip Code: 10011<br>Borough: Manhattan<br>Phone: 212-352-2524<br>Hours: 9:00 AM to 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>12 W. 14th St.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>10011.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Manhattan</value>
+          </Data>
+          <Data name="Phone">
+            <value>212-352-2524</value>
+          </Data>
+          <Data name="Hours">
+            <value>9:00 AM to 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP Jamaica Center</name>
+        <address>165-08 88th Ave.</address>
+        <description><![CDATA[Address: 165-08 88th Ave.<br>Zip Code: 11432<br>Borough: Queens<br>Phone: 718-883-8344 <br>Hours: M-F 9:00 AM - 6:00 PM, Sat  9:00 AM - 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>165-08 88th Ave.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>11432.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Queens</value>
+          </Data>
+          <Data name="Phone">
+            <value>718-883-8344 </value>
+          </Data>
+          <Data name="Hours">
+            <value>M-F 9:00 AM - 6:00 PM, Sat  9:00 AM - 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP Queens Center</name>
+        <address>32-20 Northern Blvd.</address>
+        <description><![CDATA[Address: 32-20 Northern Blvd. <br>Zip Code: 11101<br>Borough: Queens<br>Phone: 718-784-6315<br>Hours: 8:30 AM - 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>32-20 Northern Blvd. </value>
+          </Data>
+          <Data name="Zip Code">
+            <value>11101.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Queens</value>
+          </Data>
+          <Data name="Phone">
+            <value>718-784-6315</value>
+          </Data>
+          <Data name="Hours">
+            <value>8:30 AM - 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP Rockaway Office</name>
+        <address>219 Beach 59th St.</address>
+        <description><![CDATA[Address: 219 Beach 59th St.<br>Zip Code: 11692<br>Borough: Queens<br>Phone: 718-637-2750<br>Hours: 8:30 AM - 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>219 Beach 59th St.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>11692.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Queens</value>
+          </Data>
+          <Data name="Phone">
+            <value>718-637-2750</value>
+          </Data>
+          <Data name="Hours">
+            <value>8:30 AM - 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SNAP Richmond Office</name>
+        <address>201 Bay St.</address>
+        <description><![CDATA[Address: 201 Bay St.<br>Zip Code: 10301<br>Borough: Staten Island<br>Phone: 718-390-6994<br>Hours: 9:00 AM to 5:00 PM]]></description>
+        <styleUrl>#icon-503-62AF44</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>201 Bay St.</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>10301.0</value>
+          </Data>
+          <Data name="Borough">
+            <value>Staten Island</value>
+          </Data>
+          <Data name="Phone">
+            <value>718-390-6994</value>
+          </Data>
+          <Data name="Hours">
+            <value>9:00 AM to 5:00 PM</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
