@@ -31,8 +31,10 @@ The City Planning Facilities Database aggregates more than 35,000 records from 5
 ### Description
 
 While each source agency classifies its facilities according to their own naming systems, we have grouped all facilities and program sites into the following seven categories to help planners navigate the data more easily: 
-* Health and Human Services * Education, Child Welfare, and Youth
-* Parks, Gardens, and Historical Sites * Libraries and Cultural Programs
+* Health and Human Services 
+* Education, Child Welfare, and Youth
+* Parks, Gardens, and Historical Sites 
+* Libraries and Cultural Programs
 * Public Safety, Emergency Services, and Administration of Justice
 * Core Infrastructure and Transportation
 * Administration of Government 
