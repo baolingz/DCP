@@ -132,4 +132,5 @@ Public
 
 If you have any questions about or comments on these data please contact the NYC DCP Capital Planning team at [Capital@planning.nyc.gov](mailto:Capital@planning.nyc.gov).
 
-   
+### Data Dictionary
+https://baolingz.github.io/DCPWorkRepo/data_dictionary.html
