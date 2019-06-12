@@ -1,0 +1,35 @@
+Order,Field Name,Longform Name,Description
+1,uid ,ID,Unique ID of the record
+2,facname ,Facility name,Name of the facility in proper case as received from the source data
+3,factype ,Type,"Value representing the specific type of facility, which the most granular category of facilities.  This value is often taken directly from the source data"
+4,facsubgrp ,Subgroup,Value identifying the subgroup the facility belongs to based on the facility type.  Subgroup values are assigned by DCP
+5,facgroup ,Group,Value identifying the group the facility belongs to based on the subgroup
+6,facdomain ,Domain,Value identifying the domain the facility belongs to based on the group.  Domain is the broadest categorical grouping
+7,servarea,Service area,Value identifying whether the extent of the area the facility serves is local or regional
+8,opname ,Operator name,Name of the operating entity
+9,opabbrev ,Operator acronym,Abbreviation for the operating entity
+10,optype ,Operator type,Indicates whether the operating entity is public or non-public
+11,overagency ,Oversight agency name,Value identifying the domain the facility belongs to based on the group.  Domain is the broadest categorical grouping
+12,overabbrev ,Oversight agency acronym,Abbreviation for the oversight agency
+13,overlevel ,Oversight level,"The level of government of the oversight agency: City, State, City-State, Federal, or Non-public Oversight"
+14,capacity ,Capacity,How many of capacity type/unit the facility is intended to hold.
+15,captype ,Capacity type,"Value representing the unit type of capacity, such as beds, visitors, seats, etc."
+16,proptype ,Property type,x
+17,addressnum ,House number,Address number of where the facility is located according to GeoSupport
+18,streetname ,Street name,"Street name where the facility is located, according to GeoSupport"
+19,address ,Address,Concatenated value of AddressNumber and StreetName of where the facility is located
+20,city ,City,City name where the facility is located according to GeoSupport
+21,zipcode ,Zipcode,Zip code of address from GeoSupport
+22,boro ,Borough,Full name of the borough the facility is within
+23,bin ,BIN,BIN value of the building the facility is located in.  If the facility spans multiple buildings only one BIN is reported
+24,bbl ,BBL,BBL values for the tax lots the facility is located on.  If the facility spans multiple lots only one BBL is reported
+25,latitude ,Latitude,"Latitude of the location as returned by Geosupport, or calculated using the coordinates in or geometry from the source data"
+26,longitude ,Longitude,"Longitude of the location as returned by Geosupport, or calculated using the coordinates in or geometry from the source data"
+27,xcoord ,X coord,"X Coordinate of the location as returned by Geosupport, or calculated using the coordinates in or geometry from the source data"
+28,ycoord ,Y coord,Concatenated value of House Number and Street Name of where the facility is located
+29,commboard ,Community district,Community District the facility is within according to Geosupport
+30,nta ,NTA code,Code of the NTA the facility is within according to Geosupport
+31,council ,Council district,Council district the facility is within according to Geosupport
+32,censtract ,Census tract,Census tract of the NTA the facility is within according to Geosupport
+33,datasource ,Source dataset,Name of the dataset the record came from
+34,geom ,Geometry,Spatial data component
