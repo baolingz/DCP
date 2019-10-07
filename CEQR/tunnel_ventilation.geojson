@@ -16,7 +16,7 @@
       "type": "Feature",
       "properties": {
         "name": "Midtown Tunnel Ventilation Tower (QN)",
-        "address": "Midtown Manhattan, New York, NY 10016"
+        "address": "Long Island City, NY 11101"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@
       "type": "Feature",
       "properties": {
         "name": "Lincoln Tunnel Ventilation Tower",
-        "address": "Midtown Manhattan, New York, NY 10016"
+        "address": "459 12th Ave, New York, NY 10018"
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +38,7 @@
       "type": "Feature",
       "properties": {
         "name": "Holland Tunnel Ventilation Tower",
-        "address": "Midtown Manhattan, New York, NY 10016"
+        "address": "Manhattan, New York, NY 10013"
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +49,7 @@
       "type": "Feature",
       "properties": {
         "name": "Hugh.L Carey Tunnel Ventilation Building (MN)",
-        "address": "Midtown Manhattan, New York, NY 10016"
+        "address": "504 Battery Pl, New York, NY 10004"
       },
       "geometry": {
         "type": "Point",
@@ -59,8 +59,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hugh.L Carey Tunnel Ventilation Building (Middle)",
-        "address": "Midtown Manhattan, New York, NY 10016"
+        "name": "Hugh.L Carey Tunnel Ventilation Building (Center)",
+        "address": ""
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
       "type": "Feature",
       "properties": {
         "name": "Hugh.L Carey Tunnel Ventilation Building (BK)",
-        "address": "Midtown Manhattan, New York, NY 10016"
+        "address": "100 Hamilton Ave, Brooklyn, NY 11231"
       },
       "geometry": {
         "type": "Point",
