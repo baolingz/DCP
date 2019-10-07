@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midtown Tunnel Ventilation Tower (MN)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.969186, 40.748002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midtown Tunnel Ventilation Tower (QN)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.957563, 40.741937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln Tunnel Ventilation Tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.003312, 40.760363]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holland Tunnel Ventilation Tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.014963, 40.726548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hugh.L Carey Tunnel Ventilation Building (MN)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.017399, 40.7051845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hugh.L Carey Tunnel Ventilation Building (SI)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.012124, 40.692330]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hugh.L Carey Tunnel Ventilation Building (BK)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.005927, 40.682385]
+      }
+    }
+  ]
+} 
