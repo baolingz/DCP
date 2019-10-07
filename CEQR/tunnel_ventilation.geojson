@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Midtown Tunnel Ventilation Tower (MN)"
+        "name": "Midtown Tunnel Ventilation Tower (MN)",
+        "address": "Midtown Manhattan, New York, NY 10016"
       },
       "geometry": {
         "type": "Point",
@@ -14,7 +15,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Midtown Tunnel Ventilation Tower (QN)"
+        "name": "Midtown Tunnel Ventilation Tower (QN)",
+        "address": "Midtown Manhattan, New York, NY 10016"
       },
       "geometry": {
         "type": "Point",
@@ -24,7 +26,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lincoln Tunnel Ventilation Tower"
+        "name": "Lincoln Tunnel Ventilation Tower",
+        "address": "Midtown Manhattan, New York, NY 10016"
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +37,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Holland Tunnel Ventilation Tower"
+        "name": "Holland Tunnel Ventilation Tower",
+        "address": "Midtown Manhattan, New York, NY 10016"
       },
       "geometry": {
         "type": "Point",
@@ -44,7 +48,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hugh.L Carey Tunnel Ventilation Building (MN)"
+        "name": "Hugh.L Carey Tunnel Ventilation Building (MN)",
+        "address": "Midtown Manhattan, New York, NY 10016"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +59,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hugh.L Carey Tunnel Ventilation Building (SI)"
+        "name": "Hugh.L Carey Tunnel Ventilation Building (Middle)",
+        "address": "Midtown Manhattan, New York, NY 10016"
       },
       "geometry": {
         "type": "Point",
@@ -64,7 +70,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hugh.L Carey Tunnel Ventilation Building (BK)"
+        "name": "Hugh.L Carey Tunnel Ventilation Building (BK)",
+        "address": "Midtown Manhattan, New York, NY 10016"
       },
       "geometry": {
         "type": "Point",
